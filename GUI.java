@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("GUI");
 		System.out.println("2nd in gui branch");
 		
+		int x = 10;
 
 	}
 
