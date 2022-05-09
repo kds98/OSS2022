@@ -7,8 +7,11 @@ public class Hello {
 		System.out.println("2nd in gui branch");
 		System.out.println("3nd in gui branch");
 		
-		int x = 3;
+<<<<<<< HEAD
+		int x = 10;
+
 		
+>>>>>>> gui
 
 	}
 
