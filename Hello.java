@@ -7,7 +7,8 @@ public class Hello {
 		System.out.println("Hello, java!");
 		System.out.println("Hello, java!");
 	        
-		//수정	
+		//수정
+		int y = 3;	
 
 	}
 
